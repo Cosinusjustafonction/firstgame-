@@ -1,2 +1,5 @@
-# firstgame-
-a view of the first python game i made 
+# firstgame
+i made this game a while ago but decided to post it now 
+# dependencies
+pygame 
+random 
